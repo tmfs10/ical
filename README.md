@@ -1,5 +1,7 @@
 
 
+Code for the paper "Information Condensing Active Learning" -- https://arxiv.org/abs/2002.07916
+
 This code also uses code from the following papers
 
 BatchBALD: Efficient and Diverse Batch Acquisition for Deep Bayesian Active Learning
